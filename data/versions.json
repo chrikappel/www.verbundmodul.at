@@ -1,16 +1,6 @@
 {
   "versions": [
     {
-      "id": "test-618eb72e",
-      "version": "test",
-      "date": "2026-05-07",
-      "title": "Persistenztest",
-      "status": "Preview",
-      "changes": [
-        "Test-Eintrag via API"
-      ]
-    },
-    {
       "id": "2026-1",
       "version": "2026.1",
       "date": "Q1 2026",
