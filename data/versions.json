@@ -38,6 +38,17 @@
             "changes": [
                 "FCB-Barcode nach eTicketing 3.0 Standard: Barcodes nun auch für die ÖBB lesbar"
             ]
+        },
+        {
+            "id": "da1808b7-0c5f-40ae-a8f6-ccc8c12b8f74",
+            "version": "v5.78-u0",
+            "buildNumber": 1725,
+            "date": "09.02.2026",
+            "title": "",
+            "status": "Release",
+            "changes": [
+                "SVV: Unterstützung von alphanumerischen Liniennummern"
+            ]
         }
     ]
 }
