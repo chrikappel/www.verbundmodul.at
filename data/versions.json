@@ -15,6 +15,17 @@
                 "VOR: Verbesserung Handling Regel 2",
                 "Diverse kleinere Bugfixes und Verbesserungen im UWP-Core und im Modul-Tester"
             ]
+        },
+        {
+            "id": "5a5eed83-db79-4df0-9d2a-f254da3d4fac",
+            "version": "v5.78-u1",
+            "buildNumber": 1727,
+            "date": "16.04.2026",
+            "title": "",
+            "status": "Release",
+            "changes": [
+                "FCB-Barcode: Barcodes nun auch für die ÖBB lesbar"
+            ]
         }
     ]
 }
