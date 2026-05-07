@@ -8,12 +8,12 @@
             "title": "TESTstellung",
             "status": "Preview",
             "changes": [
-                ".) Neue BIN-File-Version 25 (Erweiterung der TRF- und TAK-Datei im Datenmodell-BIM)",
-                ".) Neue Strukturversion S_BarcodeDataExtraUWP (zusätzliche Felder für OOVV/FCB-Barcode)",
-                ".) OOVV: Generierung FCB-Barcode",
-                ".) OOVV: Fahrscheinkontrolle mittels FCB-Barcode",
-                ".) VOR: Verbesserung Handling Regel 2",
-                ".) Diverse kleinere Bugfixes und Verbesserungen im UWP-Core und im Modul-Tester"
+                "Neue BIN-File-Version 25 (Erweiterung der TRF- und TAK-Datei im Datenmodell-BIM)",
+                "Neue Strukturversion S_BarcodeDataExtraUWP (zusätzliche Felder für OOVV/FCB-Barcode)",
+                "OOVV: Generierung FCB-Barcode",
+                "OOVV: Fahrscheinkontrolle mittels FCB-Barcode",
+                "VOR: Verbesserung Handling Regel 2",
+                "Diverse kleinere Bugfixes und Verbesserungen im UWP-Core und im Modul-Tester"
             ]
         }
     ]
