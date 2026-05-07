@@ -1,19 +1,27 @@
 {
-  "versions": [
-    {
-      "id": "2026-1",
-      "version": "v5.79-u0 (Build 1730)",
-      "date": "07.05.2026",
-      "title": "TESTstellung",
-      "status": "Preview",
-      "changes": [
-        ".) Neue BIN-File-Version 25 (Erweiterung der TRF- und TAK-Datei im Datenmodell-BIM)",
-        ".) Neue Strukturversion S_BarcodeDataExtraUWP (zusätzliche Felder für OOVV/FCB-Barcode)",
-        ".) OOVV: Generierung FCB-Barcode",
-        ".) OOVV: Fahrscheinkontrolle mittels FCB-Barcode",
-        ".) VOR: Verbesserung Handling Regel 2",
-        ".) Diverse kleinere Bugfixes und Verbesserungen im UWP-Core und im Modul-Tester"
-      ]
-    }
-  ]
+    "versions": [
+        {
+            "id": "d8f93ffb-ac2a-476f-838f-47e186002a06",
+            "version": "TEST Version",
+            "date": "",
+            "title": "",
+            "status": "Release",
+            "changes": []
+        },
+        {
+            "id": "2026-1",
+            "version": "v5.79-u0 (Build 1730)",
+            "date": "07.05.2026",
+            "title": "TESTstellung",
+            "status": "Preview",
+            "changes": [
+                ".) Neue BIN-File-Version 25 (Erweiterung der TRF- und TAK-Datei im Datenmodell-BIM)",
+                ".) Neue Strukturversion S_BarcodeDataExtraUWP (zusätzliche Felder für OOVV/FCB-Barcode)",
+                ".) OOVV: Generierung FCB-Barcode",
+                ".) OOVV: Fahrscheinkontrolle mittels FCB-Barcode",
+                ".) VOR: Verbesserung Handling Regel 2",
+                ".) Diverse kleinere Bugfixes und Verbesserungen im UWP-Core und im Modul-Tester"
+            ]
+        }
+    ]
 }
