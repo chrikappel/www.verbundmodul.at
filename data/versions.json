@@ -17,6 +17,18 @@
             ]
         },
         {
+            "id": "29e0c5c0-f9b7-4151-babe-f55059bcb97f",
+            "version": "v5.77-u4",
+            "buildNumber": 1728,
+            "date": "23.04.2026",
+            "title": "",
+            "status": "Release",
+            "changes": [
+                "VST: UIC-Barcode-Anpassungen",
+                "Bugfix: Steuerdaten-Generierung für ältere Versionen wiederhergestellt"
+            ]
+        },
+        {
             "id": "5a5eed83-db79-4df0-9d2a-f254da3d4fac",
             "version": "v5.78-u1",
             "buildNumber": 1727,
