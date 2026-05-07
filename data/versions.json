@@ -1,0 +1,40 @@
+{
+  "versions": [
+    {
+      "id": "test-618eb72e",
+      "version": "test",
+      "date": "2026-05-07",
+      "title": "Persistenztest",
+      "status": "Preview",
+      "changes": [
+        "Test-Eintrag via API"
+      ]
+    },
+    {
+      "id": "2026-1",
+      "version": "2026.1",
+      "date": "Q1 2026",
+      "title": "Neue Barcode- und Kontrollfunktionen",
+      "status": "Preview",
+      "changes": [
+        "Optimierungen im UIC-FCB-Barcode",
+        "Verbesserte Ampelprüfung bei Fahrscheinkontrollen",
+        "Erweiterungen für personalisierte Tickets",
+        "Performance-Optimierungen in der Stateless-API"
+      ]
+    },
+    {
+      "id": "2025-4",
+      "version": "2025.4",
+      "date": "Q4 2025",
+      "title": "API- und Integrationsupdate",
+      "status": "Release",
+      "changes": [
+        "Neue Funktionen in der Common-API",
+        "Verbesserte XML-Schnittstellen",
+        "Erweiterte Logging- und Monitoringfunktionen",
+        "Optimierungen für Partnerintegrationen"
+      ]
+    }
+  ]
+}
