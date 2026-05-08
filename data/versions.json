@@ -1,106 +1,106 @@
 {
-    "versions": [
-        {
-            "id": "2026-1",
-            "version": "v5.79-u0",
-            "buildNumber": 1730,
-            "date": "07.05.2026",
-            "title": "TESTstellung",
-            "status": "Preview",
-            "changes": [
-                "Neue BIN-File-Version 25 (Erweiterung der TRF- und TAK-Datei im Datenmodell-BIM)",
-                "Neue Strukturversion S_BarcodeDataExtraUWP (zusätzliche Felder für OOVV/FCB-Barcode)",
-                "OOVV: Generierung FCB-Barcode",
-                "OOVV: Fahrscheinkontrolle mittels FCB-Barcode",
-                "VOR: Verbesserung Handling Regel 2",
-                "Diverse kleinere Bugfixes und Verbesserungen im UWP-Core und im Modul-Tester"
-            ]
-        },
-        {
-            "id": "29e0c5c0-f9b7-4151-babe-f55059bcb97f",
-            "version": "v5.77-u4",
-            "buildNumber": 1728,
-            "date": "23.04.2026",
-            "title": "",
-            "status": "Release",
-            "changes": [
-                "VST: UIC-Barcode-Anpassungen",
-                "Bugfix: Steuerdaten-Generierung für ältere Versionen wiederhergestellt"
-            ]
-        },
-        {
-            "id": "5a5eed83-db79-4df0-9d2a-f254da3d4fac",
-            "version": "v5.78-u1",
-            "buildNumber": 1727,
-            "date": "16.04.2026",
-            "title": "",
-            "status": "Release",
-            "changes": [
-                "FCB-Barcode nach eTicketing 3.0 Standard: Barcodes nun auch für die ÖBB lesbar"
-            ]
-        },
-        {
-            "id": "2c1f3942-36ca-492a-ac53-c0b085654629",
-            "version": "v5.77-u3",
-            "buildNumber": 1726,
-            "date": "15.04.2026",
-            "title": "",
-            "status": "Release",
-            "changes": [
-                "FCB-Barcode nach eTicketing 3.0 Standard: Barcodes nun auch für die ÖBB lesbar"
-            ]
-        },
-        {
-            "id": "da1808b7-0c5f-40ae-a8f6-ccc8c12b8f74",
-            "version": "v5.78-u0",
-            "buildNumber": 1725,
-            "date": "09.02.2026",
-            "title": "",
-            "status": "Release",
-            "changes": [
-                "SVV: Unterstützung von alphanumerischen Liniennummern"
-            ]
-        },
-        {
-            "id": "931fddff-5bd4-40fa-a75f-03f523b8164c",
-            "version": "v5.77-u2",
-            "buildNumber": 1723,
-            "date": "08.04.2026",
-            "title": "",
-            "status": "Release",
-            "changes": [
-                "Bugfix: Memory-Realignment unter Android hat zu Abbrüchen geführt"
-            ]
-        },
-        {
-            "id": "9c73be5a-5302-4535-9136-1a0f5124c053",
-            "version": "v5.77-u1",
-            "buildNumber": 1722,
-            "date": "26.03.2026",
-            "title": "",
-            "status": "Release",
-            "changes": [
-                "Tarifmodell-VST: Unterstützung für Preisanteile erweitert"
-            ]
-        },
-        {
-            "id": "f500d95c-1f85-4ffc-bc40-b87228dd3529",
-            "version": "v5.77-u0",
-            "buildNumber": 1719,
-            "date": "05.03.2026",
-            "title": "Dieses Release war als 5.76-u2 geplant, wurde aufgrund der BIN-File-Erweiterung als 5.77-u0 versioniert",
-            "status": "Release",
-            "changes": [
-                "UWP-Core ist nun restriktiver beim Einlesen von Tarifzeiträumen.",
-                "Die Tarifzeiträume des Haustarifs müssen eine Untermenge der Tarifzeiträume des Verbundtarifs sein, ansonsten kann das Haustarif-BIN-File nicht geladen werden.",
-                "Es darf keine zwei Tarifzeiträume mit selber ID aber unterschiedlichen Zeiträumen geben, ansonsten kann das BIN-File nicht erstellt werden.",
-                "Memory Layouts: Die Kompatibilität des UWP-Cores mit System-Software, welche mit UWP-Headers der Version 4.71 und früher kompiliert wurde, ist wiederhergestellt.",
-                "Neue BIN-File-Version 24",
-                "VST: Rückdatierbarkeit über Tarifzeitraumwechsel hinweg ermöglicht",
-                "OÖVV: Neue Dev-Version der Fahrscheinkontrolle",
-                "Kontrolle streckenbasierter Fahrscheine",
-                "Erweiterung der Steuerdaten (TRF- & TAK-Datei)"
-            ]
-        }
-    ]
+  "versions": [
+    {
+      "id": "2026-1",
+      "version": "v5.79-u0",
+      "buildNumber": 1730,
+      "date": "07.05.2026",
+      "title": "TESTstellung",
+      "status": "Teststellung",
+      "changes": [
+        "Neue BIN-File-Version 25 (Erweiterung der TRF- und TAK-Datei im Datenmodell-BIM)",
+        "Neue Strukturversion S_BarcodeDataExtraUWP (zusätzliche Felder für OOVV/FCB-Barcode)",
+        "OOVV: Generierung FCB-Barcode",
+        "OOVV: Fahrscheinkontrolle mittels FCB-Barcode",
+        "VOR: Verbesserung Handling Regel 2",
+        "Diverse kleinere Bugfixes und Verbesserungen im UWP-Core und im Modul-Tester"
+      ]
+    },
+    {
+      "id": "29e0c5c0-f9b7-4151-babe-f55059bcb97f",
+      "version": "v5.77-u4",
+      "buildNumber": 1728,
+      "date": "23.04.2026",
+      "title": "",
+      "status": "Release",
+      "changes": [
+        "VST: UIC-Barcode-Anpassungen",
+        "Bugfix: Steuerdaten-Generierung für ältere Versionen wiederhergestellt"
+      ]
+    },
+    {
+      "id": "5a5eed83-db79-4df0-9d2a-f254da3d4fac",
+      "version": "v5.78-u1",
+      "buildNumber": 1727,
+      "date": "16.04.2026",
+      "title": "",
+      "status": "Release",
+      "changes": [
+        "FCB-Barcode nach eTicketing 3.0 Standard: Barcodes nun auch für die ÖBB lesbar"
+      ]
+    },
+    {
+      "id": "2c1f3942-36ca-492a-ac53-c0b085654629",
+      "version": "v5.77-u3",
+      "buildNumber": 1726,
+      "date": "15.04.2026",
+      "title": "",
+      "status": "Release",
+      "changes": [
+        "FCB-Barcode nach eTicketing 3.0 Standard: Barcodes nun auch für die ÖBB lesbar"
+      ]
+    },
+    {
+      "id": "da1808b7-0c5f-40ae-a8f6-ccc8c12b8f74",
+      "version": "v5.78-u0",
+      "buildNumber": 1725,
+      "date": "09.02.2026",
+      "title": "",
+      "status": "Release",
+      "changes": [
+        "SVV: Unterstützung von alphanumerischen Liniennummern"
+      ]
+    },
+    {
+      "id": "931fddff-5bd4-40fa-a75f-03f523b8164c",
+      "version": "v5.77-u2",
+      "buildNumber": 1723,
+      "date": "08.04.2026",
+      "title": "",
+      "status": "Release",
+      "changes": [
+        "Bugfix: Memory-Realignment unter Android hat zu Abbrüchen geführt"
+      ]
+    },
+    {
+      "id": "9c73be5a-5302-4535-9136-1a0f5124c053",
+      "version": "v5.77-u1",
+      "buildNumber": 1722,
+      "date": "26.03.2026",
+      "title": "",
+      "status": "Release",
+      "changes": [
+        "Tarifmodell-VST: Unterstützung für Preisanteile erweitert"
+      ]
+    },
+    {
+      "id": "f500d95c-1f85-4ffc-bc40-b87228dd3529",
+      "version": "v5.77-u0",
+      "buildNumber": 1719,
+      "date": "05.03.2026",
+      "title": "Dieses Release war als 5.76-u2 geplant, wurde aufgrund der BIN-File-Erweiterung als 5.77-u0 versioniert",
+      "status": "Release",
+      "changes": [
+        "UWP-Core ist nun restriktiver beim Einlesen von Tarifzeiträumen.",
+        "Die Tarifzeiträume des Haustarifs müssen eine Untermenge der Tarifzeiträume des Verbundtarifs sein, ansonsten kann das Haustarif-BIN-File nicht geladen werden.",
+        "Es darf keine zwei Tarifzeiträume mit selber ID aber unterschiedlichen Zeiträumen geben, ansonsten kann das BIN-File nicht erstellt werden.",
+        "Memory Layouts: Die Kompatibilität des UWP-Cores mit System-Software, welche mit UWP-Headers der Version 4.71 und früher kompiliert wurde, ist wiederhergestellt.",
+        "Neue BIN-File-Version 24",
+        "VST: Rückdatierbarkeit über Tarifzeitraumwechsel hinweg ermöglicht",
+        "OÖVV: Neue Dev-Version der Fahrscheinkontrolle",
+        "Kontrolle streckenbasierter Fahrscheine",
+        "Erweiterung der Steuerdaten (TRF- & TAK-Datei)"
+      ]
+    }
+  ]
 }
