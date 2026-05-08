@@ -117,10 +117,10 @@
         },
         {
             "id": "eae84e21-5ae4-4926-bbdb-436fdadefffa",
-            "version": "v5.76-u0 Preview 2",
+            "version": "v5.76-u0",
             "buildNumber": 1704,
             "date": "04.11.2025",
-            "title": "",
+            "title": "Preview 2",
             "status": "Preview",
             "changes": [
                 "OÖVV: Fahrscheinkontrolle - Erstes Proof of Concept",
