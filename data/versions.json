@@ -101,6 +101,15 @@
                 "Kontrolle streckenbasierter Fahrscheine",
                 "Erweiterung der Steuerdaten (TRF- & TAK-Datei)"
             ]
+        },
+        {
+            "id": "d71aea4c-5fdd-49d2-ae58-01ce8f484881",
+            "version": "v5.76-u1",
+            "buildNumber": 1716,
+            "date": "29.01.2026",
+            "title": "",
+            "status": "Release",
+            "changes": []
         }
     ]
 }
