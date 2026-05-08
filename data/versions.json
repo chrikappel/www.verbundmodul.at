@@ -71,6 +71,17 @@
             "changes": [
                 "Bugfix: Memory-Realignment unter Android hat zu Abbrüchen geführt"
             ]
+        },
+        {
+            "id": "9c73be5a-5302-4535-9136-1a0f5124c053",
+            "version": "v5.77-u1",
+            "buildNumber": 1722,
+            "date": "26.03.2026",
+            "title": "",
+            "status": "Release",
+            "changes": [
+                "Tarifmodell-VST: Unterstützung für Preisanteile erweitert"
+            ]
         }
     ]
 }
