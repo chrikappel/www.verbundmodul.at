@@ -82,6 +82,25 @@
             "changes": [
                 "Tarifmodell-VST: Unterstützung für Preisanteile erweitert"
             ]
+        },
+        {
+            "id": "f500d95c-1f85-4ffc-bc40-b87228dd3529",
+            "version": "v5.77-u0",
+            "buildNumber": 1719,
+            "date": "05.03.2026",
+            "title": "Dieses Release war als 5.76-u2 geplant, wurde aufgrund der BIN-File-Erweiterung als 5.77-u0 versioniert",
+            "status": "Release",
+            "changes": [
+                "UWP-Core ist nun restriktiver beim Einlesen von Tarifzeiträumen.",
+                "Die Tarifzeiträume des Haustarifs müssen eine Untermenge der Tarifzeiträume des Verbundtarifs sein, ansonsten kann das Haustarif-BIN-File nicht geladen werden.",
+                "Es darf keine zwei Tarifzeiträume mit selber ID aber unterschiedlichen Zeiträumen geben, ansonsten kann das BIN-File nicht erstellt werden.",
+                "Memory Layouts: Die Kompatibilität des UWP-Cores mit System-Software, welche mit UWP-Headers der Version 4.71 und früher kompiliert wurde, ist wiederhergestellt.",
+                "Neue BIN-File-Version 24",
+                "VST: Rückdatierbarkeit über Tarifzeitraumwechsel hinweg ermöglicht",
+                "OÖVV: Neue Dev-Version der Fahrscheinkontrolle",
+                "Kontrolle streckenbasierter Fahrscheine",
+                "Erweiterung der Steuerdaten (TRF- & TAK-Datei)"
+            ]
         }
     ]
 }
