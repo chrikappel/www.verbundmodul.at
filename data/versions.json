@@ -60,6 +60,17 @@
             "changes": [
                 "SVV: Unterstützung von alphanumerischen Liniennummern"
             ]
+        },
+        {
+            "id": "931fddff-5bd4-40fa-a75f-03f523b8164c",
+            "version": "v5.77-u2",
+            "buildNumber": 1723,
+            "date": "08.04.2026",
+            "title": "",
+            "status": "Release",
+            "changes": [
+                "Bugfix: Memory-Realignment unter Android hat zu Abbrüchen geführt"
+            ]
         }
     ]
 }
