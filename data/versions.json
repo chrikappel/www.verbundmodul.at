@@ -40,6 +40,17 @@
             ]
         },
         {
+            "id": "2c1f3942-36ca-492a-ac53-c0b085654629",
+            "version": "v5.77-u3",
+            "buildNumber": 1726,
+            "date": "15.04.2026",
+            "title": "",
+            "status": "Release",
+            "changes": [
+                "FCB-Barcode nach eTicketing 3.0 Standard: Barcodes nun auch für die ÖBB lesbar"
+            ]
+        },
+        {
             "id": "da1808b7-0c5f-40ae-a8f6-ccc8c12b8f74",
             "version": "v5.78-u0",
             "buildNumber": 1725,
