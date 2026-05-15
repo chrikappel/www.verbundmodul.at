@@ -1,6 +1,17 @@
 {
     "versions": [
         {
+            "id": "74a13a02-55a8-4e8c-bfc9-e2d6c039c1a6",
+            "version": "v5.77-u5",
+            "buildNumber": 1800,
+            "date": "18.05.26",
+            "title": "",
+            "status": "Preview",
+            "changes": [
+                "VST: Bugfix Storno für SAD_v7 (UWP-Core unterstützt bis SAD_v8)"
+            ]
+        },
+        {
             "id": "1f8c0143-a99c-4464-ae8c-da240b16fd4b",
             "version": "v5.78-u2",
             "buildNumber": 1732,
