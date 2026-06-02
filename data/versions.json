@@ -79,7 +79,7 @@
             "buildNumber": 1726,
             "date": "15.04.2026",
             "title": "",
-            "status": "Release",
+            "status": "Archiv",
             "changes": [
                 "FCB-Barcode nach eTicketing 3.0 Standard: Barcodes nun auch für die ÖBB lesbar"
             ]
