@@ -90,7 +90,7 @@
             "buildNumber": 1723,
             "date": "08.04.2026",
             "title": "",
-            "status": "Archiv",
+            "status": "Release",
             "changes": [
                 "Bugfix: Memory-Realignment unter Android hat zu Abbrüchen geführt"
             ]
@@ -101,7 +101,7 @@
             "buildNumber": 1722,
             "date": "26.03.2026",
             "title": "",
-            "status": "Release",
+            "status": "Archiv",
             "changes": [
                 "Tarifmodell-VST: Unterstützung für Preisanteile erweitert"
             ]
