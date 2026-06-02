@@ -17,7 +17,7 @@
             "buildNumber": 1732,
             "date": "12.05.2026",
             "title": "",
-            "status": "Abgekündigt",
+            "status": "Release",
             "changes": [
                 "VST: UIC-Barcode-Anpassungen",
                 "Bugfix: Steuerdaten-Generierung für ältere Versionen wiederhergestellt"
@@ -57,7 +57,7 @@
             "buildNumber": 1727,
             "date": "16.04.2026",
             "title": "",
-            "status": "Release",
+            "status": "Archiv",
             "changes": [
                 "FCB-Barcode nach eTicketing 3.0 Standard: Barcodes nun auch für die ÖBB lesbar"
             ]
@@ -131,7 +131,7 @@
             "buildNumber": 1716,
             "date": "29.01.2026",
             "title": "",
-            "status": "Release",
+            "status": "Abgekündigt",
             "changes": [
                 "Neue Version 3 S_TicketStatusUWP (Breaking Change): Gegenüber der Versionen v5.76-u0-preview1 und v5.76-u0-preview2 wurde die S_TicketStatusUWP-Struktur erweitert. Die Version 3 dieser Struktur unterscheidet sich somit in der Preview3 von der Version 3 in den bisherigen Previews",
                 "Tarifmodell-OOVV (Linz): Haustarif-Funktionalität mit eigenen Haltestellen und Fahrscheinen",
