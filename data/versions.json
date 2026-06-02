@@ -1,6 +1,15 @@
 {
     "versions": [
         {
+            "id": "a915b170-5f99-406f-990e-1db330c6e2a3",
+            "version": "v5.79-u1",
+            "buildNumber": 1737,
+            "date": "03.06.2026",
+            "title": "GEPLANTE RELEASE-STELLUNG",
+            "status": "Teststellung",
+            "changes": []
+        },
+        {
             "id": "74a13a02-55a8-4e8c-bfc9-e2d6c039c1a6",
             "version": "v5.77-u5",
             "buildNumber": 1736,
