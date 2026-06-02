@@ -17,7 +17,7 @@
             "buildNumber": 1732,
             "date": "12.05.2026",
             "title": "",
-            "status": "Release",
+            "status": "Abgekündigt",
             "changes": [
                 "VST: UIC-Barcode-Anpassungen",
                 "Bugfix: Steuerdaten-Generierung für ältere Versionen wiederhergestellt"
