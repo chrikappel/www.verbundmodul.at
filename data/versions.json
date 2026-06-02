@@ -112,7 +112,7 @@
             "buildNumber": 1719,
             "date": "05.03.2026",
             "title": "Dieses Release war als 5.76-u2 geplant, wurde aufgrund der BIN-File-Erweiterung als 5.77-u0 versioniert",
-            "status": "Release",
+            "status": "Archiv",
             "changes": [
                 "UWP-Core ist nun restriktiver beim Einlesen von Tarifzeiträumen.",
                 "Die Tarifzeiträume des Haustarifs müssen eine Untermenge der Tarifzeiträume des Verbundtarifs sein, ansonsten kann das Haustarif-BIN-File nicht geladen werden.",
