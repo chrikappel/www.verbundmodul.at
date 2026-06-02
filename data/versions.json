@@ -90,7 +90,7 @@
             "buildNumber": 1723,
             "date": "08.04.2026",
             "title": "",
-            "status": "Release",
+            "status": "Archiv",
             "changes": [
                 "Bugfix: Memory-Realignment unter Android hat zu Abbrüchen geführt"
             ]
