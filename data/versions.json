@@ -29,7 +29,7 @@
             "buildNumber": 1730,
             "date": "07.05.2026",
             "title": "Freigabe durch jeweiligen Verkehrsverbund empfohlen",
-            "status": "Teststellung",
+            "status": "Release",
             "changes": [
                 "Neue BIN-File-Version 25 (Erweiterung der TRF- und TAK-Datei im Datenmodell-BIM)",
                 "Neue Strukturversion S_BarcodeDataExtraUWP (zusätzliche Felder für OOVV/FCB-Barcode)",
