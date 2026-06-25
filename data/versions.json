@@ -1,6 +1,19 @@
 {
     "versions": [
         {
+            "id": "58f2ab2b-d27e-4e64-9322-ef23020ab643",
+            "version": "v5.80-u0",
+            "buildNumber": 1739,
+            "date": "23.06.2026",
+            "title": "Bereitgestellt am Kunden-FTP (Teststellung)",
+            "status": "Teststellung",
+            "changes": [
+                "VST + OOVV: Anpassung Barcode für ÖBB: Für das Gruppenticket nur die teilfahrscheine im Barcode, Anzahl der Reisenden wir summiert aus den Teilfahrscheinen",
+                "SVV: Anpassung Alphanumerische Liniennummern",
+                "SVV: Erweiterung Steuersätze für SVV (UStA, UStD)"
+            ]
+        },
+        {
             "id": "a915b170-5f99-406f-990e-1db330c6e2a3",
             "version": "v5.79-u1",
             "buildNumber": 1737,
