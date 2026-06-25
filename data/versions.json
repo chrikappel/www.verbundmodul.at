@@ -49,10 +49,10 @@
         },
         {
             "id": "2026-1",
-            "version": "v5.79-u0",
+            "version": "v5.79-u0 (NEU BINv25)",
             "buildNumber": 1730,
             "date": "07.05.2026",
-            "title": "",
+            "title": "Nicht am Kunden-FTP",
             "status": "Archiv",
             "changes": [
                 "Neue BIN-File-Version 25 (Erweiterung der TRF- und TAK-Datei im Datenmodell-BIM)",
