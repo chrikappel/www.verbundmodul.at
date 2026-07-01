@@ -8,7 +8,7 @@
             "title": "Bereitgestellt am Kunden-FTP (Teststellung)",
             "status": "Teststellung",
             "changes": [
-                "VST + OOVV: Anpassung Barcode für ÖBB: Für das Gruppenticket nur die teilfahrscheine im Barcode, Anzahl der Reisenden wir summiert aus den Teilfahrscheinen",
+                "VST + OOVV: Anpassung Barcode für ÖBB: Für das Gruppenticket nur die Teilfahrscheine im Barcode, Anzahl der Reisenden wird summiert aus den Teilfahrscheinen",
                 "SVV: Anpassung Alphanumerische Liniennummern",
                 "SVV: Erweiterung Steuersätze für SVV (UStA, UStD)"
             ]
