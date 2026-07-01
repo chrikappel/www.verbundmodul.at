@@ -10,7 +10,8 @@
             "changes": [
                 "VST + OOVV: Anpassung Barcode für ÖBB: Für das Gruppenticket nur die Teilfahrscheine im Barcode, Anzahl der Reisenden wird summiert aus den Teilfahrscheinen",
                 "SVV: Anpassung Alphanumerische Liniennummern",
-                "SVV: Erweiterung Steuersätze für SVV (UStA, UStD)"
+                "SVV: Erweiterung Steuersätze für SVV (UStA, UStD)",
+                "ENTHÄLT alle Anpassungen aus den Vorgängerversionen (v5.79 und älter)"
             ]
         },
         {
