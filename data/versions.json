@@ -22,7 +22,7 @@
             "status": "Teststellung",
             "changes": [
                 "VST: Bugfix Storno für SAD_v7 (UWP-Core unterstützt bis SAD_v8)",
-                "FCB-Barcode nach eTicketing 3.0 Standard: Barcodes nun auch für die ÖBB lesbar (Version 3 eingetragen)"
+                "FCB-Barcode nach eTicketing 3.0 Standard: Barcodes nun auch für die ÖBB lesbar (Version 3 in U_FLEX eingetragen)"
             ]
         },
         {
