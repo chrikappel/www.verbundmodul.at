@@ -1,6 +1,18 @@
 {
     "versions": [
         {
+            "id": "ccf73992-f3cf-4bf5-8531-2083c9b6c036",
+            "version": "v5.80-u1",
+            "buildNumber": 1740,
+            "date": "15.07.2026",
+            "title": "Bereitgestellt am Kunden-FTP (Teststellung)",
+            "status": "Teststellung",
+            "changes": [
+                "Anpassungen UIC918.9-FCB-Barcode entsprechend der Rückmeldung von den ÖBB (Gruppenfahrscheine, UTF8-Strings)",
+                "FIX in UWPGetSADData2() - korrektes Parsen der anteiligen deutschen Umsatzsteuer aus dem SAD"
+            ]
+        },
+        {
             "id": "58f2ab2b-d27e-4e64-9322-ef23020ab643",
             "version": "v5.80-u0",
             "buildNumber": 1739,
