@@ -9,7 +9,7 @@
             "status": "Teststellung",
             "changes": [
                 "Anpassungen UIC918.9-FCB-Barcode entsprechend der Rückmeldung von den ÖBB (Gruppenfahrscheine, UTF8-Strings)",
-                "Tarifmodell-SVV: FIX in UWPGetSADData2() - korrektes Parsen der anteiligen deutschen Umsatzsteuer aus dem SAD"
+                "SVV: FIX in UWPGetSADData2() - korrektes Parsen der anteiligen deutschen Umsatzsteuer aus dem SAD"
             ]
         },
         {
