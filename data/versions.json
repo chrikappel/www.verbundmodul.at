@@ -32,7 +32,7 @@
             "buildNumber": 1739,
             "date": "23.06.2026",
             "title": "Bereitgestellt am Kunden-FTP (Teststellung)",
-            "status": "Teststellung",
+            "status": "Abgekündigt",
             "changes": [
                 "VST + OOVV: Anpassung Barcode für ÖBB: Für das Gruppenticket nur die Teilfahrscheine im Barcode, Anzahl der Reisenden wird summiert aus den Teilfahrscheinen",
                 "SVV: Anpassung Alphanumerische Liniennummern",
