@@ -19,7 +19,7 @@
             "version": "v5.80-u1",
             "buildNumber": 1744,
             "date": "15.07.2026",
-            "title": "Bereitgestellt am Kunden-FTP (Teststellung)",
+            "title": "Bereitgestellt am Kunden-FTP (Teststellung und Release)",
             "status": "Abgekündigt",
             "changes": [
                 "Anpassungen UIC918.9-FCB-Barcode entsprechend der Rückmeldung von den ÖBB (Gruppenfahrscheine, UTF8-Strings, UTC-Time in issuingDate)",
