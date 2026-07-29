@@ -45,7 +45,7 @@
             "version": "v5.79-u1 (BINv25)",
             "buildNumber": 1737,
             "date": "10.06.2026",
-            "title": "Bereitgestellt am Kunden-FTP (Teststellung)",
+            "title": "Bereitgestellt am Kunden-FTP (Teststellung und Release)",
             "status": "Teststellung",
             "changes": [
                 "VST: Bugfix Storno für SAD_v7 (UWP-Core unterstützt bis SAD_v8)",
