@@ -5,8 +5,8 @@
             "version": "v5.80-u2",
             "buildNumber": 1747,
             "date": "29.07.2026",
-            "title": "Bereitgestellt am Kunden-FTP (Teststellung)",
-            "status": "Teststellung",
+            "title": "Bereitgestellt am Kunden-FTP (Teststellung und RELEASE)",
+            "status": "Release",
             "changes": [
                 "FIX Exception beim Barcode parsen",
                 "FIX Fahrscheinkontrolle mit TLB-Barcodes von Dritt-Software, welche nicht im Layout definierte Felder enthalten",
