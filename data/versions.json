@@ -3,12 +3,12 @@
         {
             "id": "20d67a99-e24c-4ff1-8fe9-c7d54079571b",
             "version": "v5.80-u2",
-            "buildNumber": 1747,
+            "buildNumber": 1750,
             "date": "29.07.2026",
-            "title": "Bereitgestellt am Kunden-FTP (Teststellung und RELEASE)",
+            "title": "Bereitgestellt am Kunden-FTP (Teststellung)",
             "status": "Release",
             "changes": [
-                "FIX Exception beim Barcode parsen",
+                "2x FIX Exception beim Barcode parsen",
                 "FIX Fahrscheinkontrolle mit TLB-Barcodes von Dritt-Software, welche nicht im Layout definierte Felder enthalten",
                 "Unterstützung abwechselndes Scannen von TLB-und FCB-Barcodes in der Fahrscheinkontrolle",
                 "Freischaltung der Tabs im UWP-ModulTester für die Analyse von Barcodes und die Fahrscheinkontrolle mit Bordrechnerdaten"
