@@ -8,7 +8,7 @@
             "title": "Teststellung und Release",
             "status": "Release",
             "changes": [
-                "Funktionen für UTF8-Konvertierung unter Linux und ARM verbessert",
+                "Funktionen für UTF8-Konvertierung unter Linux/ARM verbessert",
                 "Logging verbessert (UWP-Core loggt nun Buildnummer und OS-Plattform genauer)"
             ]
         },
