@@ -1,6 +1,18 @@
 {
     "versions": [
         {
+            "id": "ad2a350b-589a-4654-a929-5d093e641fff",
+            "version": "v5.80-u3",
+            "buildNumber": 1754,
+            "date": "17.08.2026",
+            "title": "Teststellung und Release",
+            "status": "Release",
+            "changes": [
+                "Funktionen für UTF8-Konvertierung unter Linux und ARM verbessert",
+                "Logging verbessert (UWP-Core loggt nun Buildnummer und OS-Plattform genauer)"
+            ]
+        },
+        {
             "id": "20d67a99-e24c-4ff1-8fe9-c7d54079571b",
             "version": "v5.80-u2",
             "buildNumber": 1752,
