@@ -17,7 +17,7 @@
             "version": "v5.80-u2",
             "buildNumber": 1752,
             "date": "13.08.2026",
-            "title": "Bereitgestellt am Kunden-FTP (Teststellung Build 1750, und Release)",
+            "title": "Bereitgestellt am Kunden-FTP (Teststellung Build 1750, und Release Build 1752)",
             "status": "Release",
             "changes": [
                 "2x FIX Exception beim Barcode parsen",
