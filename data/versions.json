@@ -1,6 +1,18 @@
 {
     "versions": [
         {
+            "id": "50a267a0-1e70-40a6-be33-35b4bb362c54",
+            "version": "v5.80-u4",
+            "buildNumber": 1755,
+            "date": "27.08.2026",
+            "title": "Teststellung (Release-Stellung in Build-Pipeline)",
+            "status": "Teststellung",
+            "changes": [
+                "Anpassungen UIC918.9-FCB-Barcode für ÖBB (mit validFromUTCOffset / validToUTCOffset)",
+                "Fix issuingDate in UTC"
+            ]
+        },
+        {
             "id": "ad2a350b-589a-4654-a929-5d093e641fff",
             "version": "v5.80-u3",
             "buildNumber": 1754,
