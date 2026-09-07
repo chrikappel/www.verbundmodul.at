@@ -1,6 +1,18 @@
 {
     "versions": [
         {
+            "id": "24e597e8-5f91-4623-8751-0d14262564b5",
+            "version": "v5.80-u5",
+            "buildNumber": 1756,
+            "date": "07.09.2026",
+            "title": "Teststellung und Release-Stellung",
+            "status": "Teststellung",
+            "changes": [
+                "FIX WinCE-Build",
+                "VOR: Logging für Regelcodes erweitert"
+            ]
+        },
+        {
             "id": "50a267a0-1e70-40a6-be33-35b4bb362c54",
             "version": "v5.80-u4",
             "buildNumber": 1755,
