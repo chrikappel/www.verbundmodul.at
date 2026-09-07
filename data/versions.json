@@ -21,7 +21,8 @@
             "status": "Release",
             "changes": [
                 "Anpassungen UIC918.9-FCB-Barcode für ÖBB (mit validFromUTCOffset / validToUTCOffset)",
-                "Fix issuingDate in UTC"
+                "Fix issuingDate in UTC",
+                "Known Problem: Barcode-Erstellung unter WinCE gebrochen"
             ]
         },
         {
