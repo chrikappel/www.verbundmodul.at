@@ -6,10 +6,10 @@
             "buildNumber": 1756,
             "date": "07.09.2026",
             "title": "Teststellung und Release-Stellung",
-            "status": "Teststellung",
+            "status": "Abgekündigt",
             "changes": [
-                "FIX WinCE-Build",
-                "VOR: Logging für Regelcodes erweitert"
+                "VOR: Logging für Regelcodes erweitert",
+                "Problem unter WinCE für Barcode-Erstellung besteht weiterin"
             ]
         },
         {
