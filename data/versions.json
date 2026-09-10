@@ -1,17 +1,6 @@
 {
     "versions": [
         {
-            "id": "106f743b-5563-4fbe-b669-249f58316a7d",
-            "version": "v5.80-u6",
-            "buildNumber": 1757,
-            "date": "09.09.2026",
-            "title": "Teststellung Release",
-            "status": "Release",
-            "changes": [
-                "Problem unter WinCE für die Barcode-Erstellung behoben"
-            ]
-        },
-        {
             "id": "24e597e8-5f91-4623-8751-0d14262564b5",
             "version": "v5.80-u5",
             "buildNumber": 1756,
@@ -29,7 +18,7 @@
             "buildNumber": 1755,
             "date": "27.08.2026",
             "title": "Teststellung und Release-Stellung",
-            "status": "Release",
+            "status": "Abgekündigt",
             "changes": [
                 "Anpassungen UIC918.9-FCB-Barcode für ÖBB (mit validFromUTCOffset / validToUTCOffset)",
                 "Fix issuingDate in UTC",
