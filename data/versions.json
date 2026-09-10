@@ -9,7 +9,7 @@
             "status": "Release",
             "changes": [
                 "Problem für die Barcode-Erstellung unter WinCE behoben",
-                "MemoryLeak bei UTF8-String-Konvertierung behoben"
+                "MemoryLeak bei UTF8-String-Konvertierung unter Windows und WinCE behoben"
             ]
         },
         {
