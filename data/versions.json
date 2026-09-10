@@ -95,7 +95,7 @@
             "buildNumber": 1737,
             "date": "10.06.2026",
             "title": "Bereitgestellt am Kunden-FTP (Teststellung und Release)",
-            "status": "Teststellung",
+            "status": "Abgekündigt",
             "changes": [
                 "VST: Bugfix Storno für SAD_v7 (UWP-Core unterstützt bis SAD_v8)",
                 "FCB-Barcode nach eTicketing 3.0 Standard: Barcodes nun auch für die ÖBB lesbar (Version 3 in U_FLEX eingetragen)"
