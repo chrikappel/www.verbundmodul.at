@@ -43,7 +43,7 @@
             "buildNumber": 1752,
             "date": "13.08.2026",
             "title": "Bereitgestellt am Kunden-FTP (Teststellung Build 1750, und Release Build 1752)",
-            "status": "Release",
+            "status": "Abgekündigt",
             "changes": [
                 "2x FIX Exception beim Barcode parsen",
                 "FIX Fahrscheinkontrolle mit TLB-Barcodes von Dritt-Software, welche nicht im Layout definierte Felder enthalten",
