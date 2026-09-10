@@ -1,6 +1,18 @@
 {
     "versions": [
         {
+            "id": "d98ba741-e7f8-4b08-be2d-6a0abe6ad677",
+            "version": "v5.80-u6",
+            "buildNumber": 1757,
+            "date": "09.09.2026",
+            "title": "Teststellung und Release-Stellung",
+            "status": "Release",
+            "changes": [
+                "Problem für die Barcode-Erstellung unter WinCE behoben",
+                "MemoryLeak bei UTF8-String-Konvertierung behoben"
+            ]
+        },
+        {
             "id": "24e597e8-5f91-4623-8751-0d14262564b5",
             "version": "v5.80-u5",
             "buildNumber": 1756,
